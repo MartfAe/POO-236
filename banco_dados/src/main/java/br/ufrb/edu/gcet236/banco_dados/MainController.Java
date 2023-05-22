@@ -14,7 +14,7 @@ import java.util.List;
 @RequestMapping(value= "/fornecedores")
 public class FornecedoresController {
 
-// Defina a mensagem como uma constante
+// Define a mensagem como uma constante
 private static final String FORNECEDOR_NAO_ENCONTRADO = "O fornecedor procurado não se encontra no banco de dados";
 
 
